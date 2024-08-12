@@ -15,17 +15,32 @@ They were founded by Sebastian Thrun and Anthony Levandowski.
 Waymo had its first versions come about as a result of the DARPA Grand Challenges, created by the stanford racing team in 2005. It was later expanded on with the Googlre Self-Driving Car Project in 2009.
 
 * How is the company funded? How much funding have they received?
-> The same groups that participated in Waymo’s first external investment are back for this second round, including Waymo’s parent company Alphabet, Andreessen Horowitz, AutoNation, Canada Pension Plan Investment Board, Mubadala Investment Company, Perry Creek Capital, Fidelity Management and Research Company, Magna International, Silver Lake, Temasek, and funds and accounts advised by T. Rowe Price Associates. The one new participant was Tiger Global.
+Waymo has undergone several waves of external investment, totaling $5.5 billion of investments.
+> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more.[^1]
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+Waymo seeks to make the roads safer for everyone. The number one cause of car accidents is due to user error, at a whopping 94%. By removing the human factor from the equaltion, car accidents could drop from ~2.2 million to ~150 thousand per year in the US (8). We see this goal though their mission statement:
+> Every year, 1.4M lives are lost to traffic crashes around the world. The status quo is not acceptable. Waymo is committed to holding safety to a higher standard. Because when we do, we make space for people to get around in a whole new way. On this path, we aim to offer freedom of movement for all, create a sustainable, efficient transportation ecosystem, and make the planet better than we found it. [^2]
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+The intended customers would directly be the automobile industry, and indirectly you average person. > Most (53 percent) of consumers could see fully automated vehicles on the market within two to 10 years, and more than half of Americans (55 percent) think most cars will have the ability to drive themselves by 2029. (9)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+The major advantage that they have over their competitors is being the pioneer.
+# EXPAND THIS POINT
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Waymo uses LIDAR and HD maps to navigate through terraine. This differs from some competitors in the reliance on the maps, as well as the usage of LIDAR rather than just cameras.
+
+## Issues
+
+* What major issues has the company faced?
+A major challenge for Waymo is a matter of scale. LIDAR is both expensive, and complex, meaning the scaling up is complicated. Cars reliant just on cameras can be made cheaper, and have a large fleet to allow for more testing.
+
+* What issues in terms of perception has the company faced?
+There have been mulitple crashes of Waymos, some fatal that have soured public perception. This is made slightly more difficult as the cars are restricted in where they are allowed to operate as they need to have an agreement with the city beforehand.
 
 ## Landscape
 
@@ -54,6 +69,12 @@ Waymo had its first versions come about as a result of the DARPA Grand Challenge
 * Why are these technologies appropriate for your solution?
 
 ## Sources
-https://waymo.com/
-https://en.wikipedia.org/wiki/Waymo
-https://www.cnbc.com/2022/05/21/why-the-first-autonomous-vehicles-winners-wont-be-in-your-driveway.html
+1. [^2] https://waymo.com/
+2. https://en.wikipedia.org/wiki/Waymo
+3. https://www.cnbc.com/2022/05/21/why-the-first-autonomous-vehicles-winners-wont-be-in-your-driveway.html
+4. https://www.theverge.com/2021/6/16/22536593/waymo-funding-round-amount-investors-av
+5. https://www.crunchbase.com/organization/waymo/company_financials
+6. [^1] https://coverager.com/alphabet-to-invest-5-billion-in-waymo/
+7. https://www.lawinfo.com/resources/car-accident/how-many-car-accidents-are-caused-by-human-er.html
+8. https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115
+9. https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/
