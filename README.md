@@ -61,7 +61,7 @@ Other major companies include Zoox, Cruise Automation, and Rivian.
 A core metric used is safety compared to human drivers. Waymo reported
     > An 85% reduction or 6.8 times lower crash rate involving any injury, from minor to severe and fatal cases (0.41 incidence per million miles for the Waymo Driver vs 2.78 for the human benchmark)
 	> A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for the Waymo Driver vs. 4.85 for the human benchmark)(12)
-![Waymo % Change for Police / Injury-Reported Rate Bar Graph](./ai-case-study/injury_change)
+![Waymo % Change for Police / Injury-Reported Rate Bar Graph](injury_change)
 
 * How is your company performing relative to competitors in the same field?
 
