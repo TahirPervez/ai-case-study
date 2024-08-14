@@ -50,31 +50,41 @@ Waymo is in the self-driving automobile industry.
 The major trend in autonomous automobiles would simply be their existence. They are still in the process of becoming commonplace, and having their algorithms developed. The only real major advancement would be the increase in terms of autonomy, going from something that slightly assists a human driver to something that can be self-piloted depending on the road conditions.
 
 * What are the other major companies in this field?
-Other major companies include Zoox, Cruise Automation, and Rivian. 
+Other major companies include Zoox, Cruise, Rivian, Aurora, and Tesla. 
 
 ## Results
 
 * What has been the business impact of this company so far?
-
+The primary impacts of Waymo would be the advancements made towards self driving cars, going from at best cruise control to the point of a functioning self driving car. Throughoout their growth, they have intoiduced the need for legistlation with regards to accidents involving autonoumous vehicles.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 A core metric used is safety compared to human drivers. Waymo reported
     > An 85% reduction or 6.8 times lower crash rate involving any injury, from minor to severe and fatal cases (0.41 incidence per million miles for the Waymo Driver vs 2.78 for the human benchmark)
 	> A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for the Waymo Driver vs. 4.85 for the human benchmark)(12)
-https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8149d79dc8ee99fcef/pasted_image_0.png?fm=webp
+![Waymo % Change for Police / Injury-Reported Rate](https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8149d79dc8ee99fcef/pasted_image_0.png?fm=webp)
 
 
 * How is your company performing relative to competitors in the same field?
+Waymo is doing better than its competitors. 
+Uber and Apple both had attempted to enter the field of self-driving cars, but ended their programs. 
+Cruise, on the other hand, has paused their autonomous taxis due to an accident that had occured.
+Tesla has a lower level of autonomous car compared to Waymo.
+All together, it seems that Waymo's focus on safety is helping it stay ahead as it can minimize backlash from broken trust.
+
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I was to advise Waymo, I would suggest looking into seeing about coming to an arangement with cities to be creating and providing autonomous buses.
 
 * Why do you think that offering this product or service would benefit the company?
+Major benefits for this would be simply the fact that it would help with spreading trust in Waymo as they are introduced to new cities, as well as allowing them to be able to expand the amount of autonoumous miles that they can log. In addition, having known routes that aren't changing can be very feasable to the current state of the technology.
 
 * What technologies would this additional product or service utilize?
+The only major technologies needed to be added into this would be some way to identify if people are wanting to get on at the next stop, as busses stopping at every stop would make them more frustrating.
 
 * Why are these technologies appropriate for your solution?
+These are appropritate since busses ideally only stop at a bus stop if someone wants to get on or off at the stop.
 
 ## Sources
 1. https://waymo.com/
@@ -89,3 +99,7 @@ https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8
 10. https://www.zippia.com/waymo-careers-1418404/competitors/#
 11. https://finance.yahoo.com/news/waymo-outlasted-competition-made-robo-100000830.html
 12. https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million/
+13. https://www.firstent.org/blog/what-to-do-if-you-get-in-an-accident-with-one-of-l-a-s-new-driverless-cars/#:~:text=And%20under%20California%20law%2C%20the,damage%20resulting%20from%20the%20accident.
+14. https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/
+15. https://waymo.com/blog/2021/08/addressing-transit-mobility-gaps-what/
+16. https://media.renaultgroup.com/autonomous-vehicle-renault-group-to-soon-launch-an-ambitious-level-4-offer-for-public-transportation/
