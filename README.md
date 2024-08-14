@@ -63,6 +63,7 @@ A core metric used is safety compared to human drivers. Waymo reported
 	> A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for the Waymo Driver vs. 4.85 for the human benchmark)(12)
 https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8149d79dc8ee99fcef/pasted_image_0.png?fm=webp
 
+
 * How is your company performing relative to competitors in the same field?
 
 ## Recommendations
