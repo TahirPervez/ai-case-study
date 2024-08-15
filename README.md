@@ -5,7 +5,7 @@
 Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the 2005 DARPA Grand Challenges, founded by Sebastian Thrun and Anthony Levandowski.
 After several years of work, in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
 Currently, Waymo is funded through rounds of external investment, currently having raised $5.5 billion through mutliple waves.
-> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more.(6)
+> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more. (6)
 
 ## Business Activities
 
@@ -22,6 +22,15 @@ The major advantage that they have over their competitors is being the pioneer. 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 Waymo uses LIDAR and HD maps to navigate through terraine. This differs from some competitors in the reliance on the maps, as well as the usage of LIDAR rather than just cameras.
 
+A primary goal of Waymo is to ensure safety of the roads by removing the number one cause of car accidents: human error.
+Accordiung to the National Highway Traffic Safety Administration (17), approximately 94% of crashes in the US are due to human error. 
+> A critical reason can be assigned to a driver, vehicle, or environ-
+ment. Normally, one critical reason was assigned per crash, based
+upon NMVCCS researcher’s crash assessment. The critical reason
+was assigned to the driver in an estimated 94 percent (±2.2%) of
+the crashes (Table 1). In addition, the critical reason was assigned
+to the vehicle in an estimated 2 percent (±0.7%) and to the environ-
+ment in about 2 percent (±1.3%) of the crashes.
 ## Issues
 
 * What major issues has the company faced?
@@ -92,3 +101,4 @@ These are appropritate since busses ideally only stop at a bus stop if someone w
 14. https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/
 15. https://waymo.com/blog/2021/08/addressing-transit-mobility-gaps-what/
 16. https://media.renaultgroup.com/autonomous-vehicle-renault-group-to-soon-launch-an-ambitious-level-4-offer-for-public-transportation/
+17. https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115
