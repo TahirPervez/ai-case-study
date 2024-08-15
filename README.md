@@ -2,24 +2,10 @@
 
 ## Overview and Origin
 
-* Name of company
-This is a case study for Waymo.
-
-* When was the company incorporated?
-Waymo became an independent company in 2016.
-
-* Who are the founders of the company?
-They were founded by Sebastian Thrun and Anthony Levandowski.
-
-* How did the idea for the company (or project) come about?
-Waymo had its first versions come about as a result of the DARPA Grand Challenges, created by the stanford racing team in 2005. It was later expanded on with the Googlre Self-Driving Car Project in 2009.
-
-* How is the company funded? How much funding have they received?
-Waymo has undergone several waves of external investment, totaling $5.5 billion of investments.
-> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more.(6)
-
-Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the DARPA Grand Challenges, back in 2005.
+Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the 2005 DARPA Grand Challenges, founded by Sebastian Thrun and Anthony Levandowski.
 After several years of work, in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
+Currently, Waymo is funded through rounds of external investment, currently having raised $5.5 billion through mutliple waves.
+> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more.(6)
 
 ## Business Activities
 
