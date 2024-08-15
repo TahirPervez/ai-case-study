@@ -1,4 +1,4 @@
-# AI Case Study
+# Waymo Case Study
 
 ## Overview and Origin
 
@@ -17,6 +17,9 @@ Waymo had its first versions come about as a result of the DARPA Grand Challenge
 * How is the company funded? How much funding have they received?
 Waymo has undergone several waves of external investment, totaling $5.5 billion of investments.
 > Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more.(6)
+
+Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the DARPA Grand Challenges, back in 2005.
+After several years of work, in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
 
 ## Business Activities
 
