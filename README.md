@@ -9,7 +9,7 @@ Currently, Waymo is funded through rounds of external investment, currently havi
 > Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. 
 The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, 
 AutoNation , Canada Pension Plan Investment Board, Fidelity Management and 
-Research Company and more. ![6](https://coverager.com/alphabet-to-invest-5-billion-in-waymo/)
+Research Company and more. [6](https://coverager.com/alphabet-to-invest-5-billion-in-waymo/)
 
 ## Business Activities
 
@@ -18,9 +18,9 @@ as seen by thier offical mission statment:
 > Every year, 1.4M lives are lost to traffic crashes around the world. The status quo is not acceptable. 
 Waymo is committed to holding safety to a higher standard. Because when we do, we make space for people to get 
 around in a whole new way. On this path, we aim to offer freedom of movement for all, create a sustainable, efficient 
-transportation ecosystem, and make the planet better than we found it. ![1](https://waymo.com/)
+transportation ecosystem, and make the planet better than we found it. [1](https://waymo.com/)
 
-Accordiung to the National Highway Traffic Safety Administration ![17](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115)
+Accordiung to the National Highway Traffic Safety Administration [17](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115)
 , approximately 94% of crashes in the US are due to human error. 
 > A critical reason can be assigned to a driver, vehicle, or environ-
 ment. Normally, one critical reason was assigned per crash, based
@@ -32,7 +32,7 @@ ment in about 2 percent (±1.3%) of the crashes.
 
 By taking the human factor out of the car, Waymo is able to commit to securing safety 
 on the roads. This is paired with the goal of having autonoumous cars accessible to the standard 
-user through ride share services. According to pymnts ![18](https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/),
+user through ride share services. According to pymnts [18](https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/),
 there is an interest in some form of ride share based utilizing autonomous vehicles, although people are still more skeptical 
 and not yet trusting when it comes to putting their and their families safety in their hand, showing that trust still needs to be developed.
 
@@ -52,16 +52,17 @@ in that they can work for lower accident rates, to help ensure trust doesn't bre
 
 ## Issues
 
-* What major issues has the company faced?
-A major challenge for Waymo is a matter of scale. LiDAR is both expensive, and complex, 
-meaning the scaling up is complicated. Cars reliant just on cameras can be made cheaper, and have 
-a large fleet to allow for more testing.
-Consumer owned not feasible
-
-* What issues in terms of perception has the company faced?
-There have been mulitple crashes of Waymos, some fatal that have soured public perception. This is made 
-slightly more difficult as the cars are restricted in where they are allowed to operate as they need to have 
-an agreement with the city beforehand.
+The primary issues that Waymo faces are ones of scaling. LiDAR is expensive, which resists Waymo's ability
+to scale their fleet. An additional issue in terms of scale would be simply be the issue with wanting to have people get personal
+autonomous cars, rather than ride-sharing with a fleet. This makes maintanence and ensuring the sensor function to be signigicantly
+harder, and becomes an insurance and liability nightmare. This likely acts as an additional deterant in the ability to expand. An additional
+issue would be how any crash damages perceptions of Waymo as a whole, *regardless of fault*. 
+> Any collision involving an autonomous vehicle — even one in which the company is not at fault — can cause a backlash, 
+particularly in a city like San Francisco, where there is already tension between city officials, 
+AV tech companies and the public. If technological capability and a favorable regulatory environment are 
+two legs of a solid AV commercialization stool, public perception is the crucial third. And a self-driving car 
+killing a sweet pooch has the potential to kick out that third leg.
+[25](https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/)
 
 ## Landscape
 
@@ -69,7 +70,10 @@ an agreement with the city beforehand.
 Waymo is in the self-driving automobile industry.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-The major trend in autonomous automobiles would simply be their existence. They are still in the process of becoming commonplace, and having their algorithms developed. The only real major advancement would be the increase in terms of autonomy, going from something that slightly assists a human driver to something that can be self-piloted depending on the road conditions.
+The major trend in autonomous automobiles would simply be their existence. They are still in the process 
+of becoming commonplace, and having their algorithms developed. The only real major advancement would be the 
+increase in terms of autonomy, going from something that slightly assists a human driver to something that can be 
+self-piloted depending on the road conditions.
 
 * What are the other major companies in this field?
 Other major companies include Zoox, Cruise, Rivian, Aurora, and Tesla. 
@@ -77,12 +81,17 @@ Other major companies include Zoox, Cruise, Rivian, Aurora, and Tesla.
 ## Results
 
 * What has been the business impact of this company so far?
-The primary impacts of Waymo would be the advancements made towards self driving cars, going from at best cruise control to the point of a functioning self driving car. Throughoout their growth, they have intoiduced the need for legistlation with regards to accidents involving autonoumous vehicles.
+The primary impacts of Waymo would be the advancements made towards self driving cars, 
+going from at best cruise control to the point of a functioning self driving car. 
+Throughoout their growth, they have intoiduced the need for legistlation with regards to 
+accidents involving autonoumous vehicles.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 A core metric used is safety compared to human drivers. Waymo reported
-    > An 85% reduction or 6.8 times lower crash rate involving any injury, from minor to severe and fatal cases (0.41 incidence per million miles for the Waymo Driver vs 2.78 for the human benchmark)
-	> A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for the Waymo Driver vs. 4.85 for the human benchmark)(12)
+> An 85% reduction or 6.8 times lower crash rate involving any injury, from minor to severe and fatal cases 
+(0.41 incidence per million miles for the Waymo Driver vs 2.78 for the human benchmark)
+A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for 
+the Waymo Driver vs. 4.85 for the human benchmark)[12](https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million/) <br>
 ![Waymo % Change for Police / Injury-Reported Rate](https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8149d79dc8ee99fcef/pasted_image_0.png?fm=webp)
 
 
@@ -132,3 +141,5 @@ These are appropritate since busses ideally only stop at a bus stop if someone w
 21. https://support.google.com/waymo/answer/9190819?hl=en
 22. https://waymo.com/research/hdmapgen-a-hierarchical-graph-generative-model-of-high-definition-maps/
 23. https://www.reddit.com/r/SelfDrivingCars/comments/1cdn5e7/the_role_of_high_def_maps/
+24. https://www.reddit.com/r/SelfDrivingCars/comments/14b1beu/when_do_you_think_waymo_or_cruise_will_be/
+25. https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/
