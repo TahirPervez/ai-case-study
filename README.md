@@ -2,28 +2,26 @@
 
 ## Overview and Origin
 
-Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the 2005 DARPA Grand Challenges, founded by Sebastian Thrun and Anthony Levandowski.
-After several years of work, in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
+Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the 
+2005 DARPA Grand Challenges, founded by Sebastian Thrun and Anthony Levandowski. After several years of work, 
+in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
 Currently, Waymo is funded through rounds of external investment, currently having raised $5.5 billion through mutliple waves.
-> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, AutoNation , Canada Pension Plan Investment Board, Fidelity Management and Research Company and more. (6)
+> Prior to this, Waymo raised $2.3 billion in its first external funding round in 2020. 
+The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, 
+AutoNation , Canada Pension Plan Investment Board, Fidelity Management and 
+Research Company and more. ![6](https://coverager.com/alphabet-to-invest-5-billion-in-waymo/)
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-Waymo seeks to make the roads safer for everyone. The number one cause of car accidents is due to user error, at a whopping 94%. By removing the human factor from the equaltion, car accidents could drop from ~2.2 million to ~150 thousand per year in the US (8). We see this goal though their mission statement:
-> Every year, 1.4M lives are lost to traffic crashes around the world. The status quo is not acceptable. Waymo is committed to holding safety to a higher standard. Because when we do, we make space for people to get around in a whole new way. On this path, we aim to offer freedom of movement for all, create a sustainable, efficient transportation ecosystem, and make the planet better than we found it. (1)
+A primary goal of Waymo is to ensure safety of the roads. and in doing so, allow a superior transportation system 
+as seen by thier offical mission statment:
+> Every year, 1.4M lives are lost to traffic crashes around the world. The status quo is not acceptable. 
+Waymo is committed to holding safety to a higher standard. Because when we do, we make space for people to get 
+around in a whole new way. On this path, we aim to offer freedom of movement for all, create a sustainable, efficient 
+transportation ecosystem, and make the planet better than we found it. ![1](https://waymo.com/)
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-The intended customers would directly be the automobile industry, and indirectly you average person. > Most (53 percent) of consumers could see fully automated vehicles on the market within two to 10 years, and more than half of Americans (55 percent) think most cars will have the ability to drive themselves by 2029. (9)
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-The major advantage that they have over their competitors is being the pioneer. Throughout its growth, Waymo has focused on a slow grow where safety is paramount, as trust is very easy to break.
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-Waymo uses LIDAR and HD maps to navigate through terraine. This differs from some competitors in the reliance on the maps, as well as the usage of LIDAR rather than just cameras.
-
-A primary goal of Waymo is to ensure safety of the roads by removing the number one cause of car accidents: human error.
-Accordiung to the National Highway Traffic Safety Administration (17), approximately 94% of crashes in the US are due to human error. 
+Accordiung to the National Highway Traffic Safety Administration ![17](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115)
+, approximately 94% of crashes in the US are due to human error. 
 > A critical reason can be assigned to a driver, vehicle, or environ-
 ment. Normally, one critical reason was assigned per crash, based
 upon NMVCCS researcher’s crash assessment. The critical reason
@@ -31,13 +29,39 @@ was assigned to the driver in an estimated 94 percent (±2.2%) of
 the crashes (Table 1). In addition, the critical reason was assigned
 to the vehicle in an estimated 2 percent (±0.7%) and to the environ-
 ment in about 2 percent (±1.3%) of the crashes.
+
+By taking the human factor out of the car, Waymo is able to commit to securing safety 
+on the roads. This is paired with the goal of having autonoumous cars accessible to the standard 
+user through ride share services. According to pymnts ![18](https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/),
+there is an interest in some form of ride share based utilizing autonomous vehicles, although people are still more skeptical 
+and not yet trusting when it comes to putting their and their families safety in their hand, showing that trust still needs to be developed.
+
+Waymo cars navigate their environment using a combination of LiDAR, cameras, microphones, and HD maps. LiDAR is effectivly a laser based sonar, 
+and is effective both in light and dark environments, capable of "seeing" far distances, which is valuable when it comes to 
+operating at high speeds, like on a highway. There are cameras capable of operating in both standard and low light conditions,
+that allow the Waymo to get a 360 degree view of the world around it as a human would see it, allowing for visual identification of
+traffic lights and signs, to effectivly follow the rules of the road.  Microphones are used to idenify EMS sirens in order to give way.
+Finally, HD maps act mostly for the sake of planning ahead. 
+> High Definition (HD) maps are maps with precise definitions of road lanes with rich semantics of the traffic rules. 
+They are critical for several key stages in an autonomous driving system, including motion forecasting and planning. 
+
+The main advantage that Waymo has over its competitors would be being a pioneer as well as their priorization of safety. Being a 
+pioneer is advantageous to them as it allowed for them to strike deals with cities to allow for Waymo to gather their test data without
+having to worry about dealing with a competitor also trying to gather data from the same city. Their priorization of safety helps
+in that they can work for lower accident rates, to help ensure trust doesn't break.
+
 ## Issues
 
 * What major issues has the company faced?
-A major challenge for Waymo is a matter of scale. LIDAR is both expensive, and complex, meaning the scaling up is complicated. Cars reliant just on cameras can be made cheaper, and have a large fleet to allow for more testing.
+A major challenge for Waymo is a matter of scale. LiDAR is both expensive, and complex, 
+meaning the scaling up is complicated. Cars reliant just on cameras can be made cheaper, and have 
+a large fleet to allow for more testing.
+Consumer owned not feasible
 
 * What issues in terms of perception has the company faced?
-There have been mulitple crashes of Waymos, some fatal that have soured public perception. This is made slightly more difficult as the cars are restricted in where they are allowed to operate as they need to have an agreement with the city beforehand.
+There have been mulitple crashes of Waymos, some fatal that have soured public perception. This is made 
+slightly more difficult as the cars are restricted in where they are allowed to operate as they need to have 
+an agreement with the city beforehand.
 
 ## Landscape
 
@@ -102,3 +126,9 @@ These are appropritate since busses ideally only stop at a bus stop if someone w
 15. https://waymo.com/blog/2021/08/addressing-transit-mobility-gaps-what/
 16. https://media.renaultgroup.com/autonomous-vehicle-renault-group-to-soon-launch-an-ambitious-level-4-offer-for-public-transportation/
 17. https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115
+18. https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/
+19. https://torc.ai/2024/01/01/understanding-the-levels-of-autonomy-3-4-5/
+20. https://www.hesaitech.com/benefits-of-lidar-vs-cameras-in-self-driving-cars/
+21. https://support.google.com/waymo/answer/9190819?hl=en
+22. https://waymo.com/research/hdmapgen-a-hierarchical-graph-generative-model-of-high-definition-maps/
+23. https://www.reddit.com/r/SelfDrivingCars/comments/1cdn5e7/the_role_of_high_def_maps/
