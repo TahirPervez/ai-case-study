@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Waymo is an autonomous automobile company, with roots placing the initial development occuring due to the 
+Waymo is an self-driving car company, with roots placing the initial development occuring due to the 
 2005 DARPA Grand Challenges, founded by Sebastian Thrun and Anthony Levandowski. After several years of work, 
 in 2009 it was expanded into the Google Self-Driving Car Project, then incroportated as an independent company in 2016.
 Currently, Waymo is funded through rounds of external investment, currently having raised $5.5 billion through mutliple waves.
@@ -10,6 +10,13 @@ Currently, Waymo is funded through rounds of external investment, currently havi
 The company raised another $2.5 billion in 2021 in a round that included funding from Andreessen Horowitz, 
 AutoNation , Canada Pension Plan Investment Board, Fidelity Management and 
 Research Company and more. [6](https://coverager.com/alphabet-to-invest-5-billion-in-waymo/)
+
+## Landscape
+
+When it comes to self-driving cars, the main companies that are at play would be Waymo (Google), Zoox (Amazon), 
+Cruise (General Moters), and Rivian (Amazon). This is a fairly new industy, and biggest thing would
+be the advancements from level 2, which is effectivly manual with some help to level 4, where the human is there for emegencies and
+if road conditions become very bad. The trend is to end up at level 5, where a human operator is completly unneeded. [26](https://en.wikipedia.org/wiki/History_of_self-driving_cars)
 
 ## Business Activities
 
@@ -33,7 +40,7 @@ ment in about 2 percent (±1.3%) of the crashes.
 By taking the human factor out of the car, Waymo is able to commit to securing safety 
 on the roads. This is paired with the goal of having autonoumous cars accessible to the standard 
 user through ride share services. According to pymnts [18](https://www.pymnts.com/innovation/2019/who-will-use-self-driving-cars/),
-there is an interest in some form of ride share based utilizing autonomous vehicles, although people are still more skeptical 
+there is an interest in some form of ride share based utilizing self-driving vehicles, although people are still more skeptical 
 and not yet trusting when it comes to putting their and their families safety in their hand, showing that trust still needs to be developed.
 
 Waymo cars navigate their environment using a combination of LiDAR, cameras, microphones, and HD maps. LiDAR is effectivly a laser based sonar, 
@@ -54,7 +61,7 @@ in that they can work for lower accident rates, to help ensure trust doesn't bre
 
 The primary issues that Waymo faces are ones of scaling. LiDAR is expensive, which resists Waymo's ability
 to scale their fleet. An additional issue in terms of scale would be simply be the issue with wanting to have people get personal
-autonomous cars, rather than ride-sharing with a fleet. This makes maintanence and ensuring the sensor function to be signigicantly
+self-driving cars, rather than ride-sharing with a fleet. This makes maintanence and ensuring the sensor function to be signigicantly
 harder, and becomes an insurance and liability nightmare. This likely acts as an additional deterant in the ability to expand. An additional
 issue would be how any crash damages perceptions of Waymo as a whole, *regardless of fault*. 
 > Any collision involving an autonomous vehicle — even one in which the company is not at fault — can cause a backlash, 
@@ -64,58 +71,30 @@ two legs of a solid AV commercialization stool, public perception is the crucial
 killing a sweet pooch has the potential to kick out that third leg.
 [25](https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/)
 
-## Landscape
-
-* What field is the company in?
-Waymo is in the self-driving automobile industry.
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-The major trend in autonomous automobiles would simply be their existence. They are still in the process 
-of becoming commonplace, and having their algorithms developed. The only real major advancement would be the 
-increase in terms of autonomy, going from something that slightly assists a human driver to something that can be 
-self-piloted depending on the road conditions.
-
-* What are the other major companies in this field?
-Other major companies include Zoox, Cruise, Rivian, Aurora, and Tesla. 
-
 ## Results
 
-* What has been the business impact of this company so far?
-The primary impacts of Waymo would be the advancements made towards self driving cars, 
-going from at best cruise control to the point of a functioning self driving car. 
-Throughoout their growth, they have intoiduced the need for legistlation with regards to 
-accidents involving autonoumous vehicles.
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-A core metric used is safety compared to human drivers. Waymo reported
+Because Waymo pioneered the self-driving car industry, they have had the greatest impact in terms of the direction that it goes, 
+and the legislation that is written to regulate it as well. Said legislation being with regards to operation of autonoumous vehicles,
+how collisions are handled, and restrictions that are placed on them. [27](https://www.repairerdrivennews.com/2024/04/26/legislation-restricting-self-driving-vehicles-proposed-in-california/)
+They have also established metrics, and how they are measured. A core one used by Waymo is safety compared to human drivers, which they excell at.
 > An 85% reduction or 6.8 times lower crash rate involving any injury, from minor to severe and fatal cases 
 (0.41 incidence per million miles for the Waymo Driver vs 2.78 for the human benchmark)
 A 57% reduction or 2.3 times lower police-reported crash rate (2.1 incidence per million miles for 
 the Waymo Driver vs. 4.85 for the human benchmark)[12](https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million/) <br>
 ![Waymo % Change for Police / Injury-Reported Rate](https://images.ctfassets.net/e6t5diu0txbw/4gzabJgoo5jGxaCWZpKo0e/13de274b9ca40a8149d79dc8ee99fcef/pasted_image_0.png?fm=webp)
 
-
-* How is your company performing relative to competitors in the same field?
-Waymo is doing better than its competitors. 
-Uber and Apple both had attempted to enter the field of self-driving cars, but ended their programs. 
-Cruise, on the other hand, has paused their autonomous taxis due to an accident that had occured.
-Tesla has a lower level of autonomous car compared to Waymo.
-All together, it seems that Waymo's focus on safety is helping it stay ahead as it can minimize backlash from broken trust.
-
+Waymo is currently leading the pact in the industry. Both Uber and Apple had programs to attempt at self-driving cars, 
+but have terminated their respective programs. Cruise, on the other hand, went at their cars with different focuses, and have
+currently suspended their self-driving ride share service. Finally, Zoox is operating on a smaller scale, as transport within a campus
+rather than along cities proper.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-If I was to advise Waymo, I would suggest looking into seeing about coming to an arangement with cities to be creating and providing autonomous buses.
-
-* Why do you think that offering this product or service would benefit the company?
-Major benefits for this would be simply the fact that it would help with spreading trust in Waymo as they are introduced to new cities, as well as allowing them to be able to expand the amount of autonoumous miles that they can log. In addition, having known routes that aren't changing can be very feasable to the current state of the technology.
-
-* What technologies would this additional product or service utilize?
-The only major technologies needed to be added into this would be some way to identify if people are wanting to get on at the next stop, as busses stopping at every stop would make them more frustrating.
-
-* Why are these technologies appropriate for your solution?
-These are appropritate since busses ideally only stop at a bus stop if someone wants to get on or off at the stop.
+If I was to advise them, then I would suggest to see about providing self-driving buses, since it would both spread trust and allow
+them to gather more autonomous miles to log and improve maps. The only real major technology that would need to be implemented
+would be having the cameras be able to identify passengers wanting to get on the bus. In addition, with the potential legislation
+requiring agreements to be made before beign able to opperate in a city, being able to have the city offload the cost of operating 
+public transit to them could be a viable business tactic.
 
 ## Sources
 1. https://waymo.com/
@@ -143,3 +122,7 @@ These are appropritate since busses ideally only stop at a bus stop if someone w
 23. https://www.reddit.com/r/SelfDrivingCars/comments/1cdn5e7/the_role_of_high_def_maps/
 24. https://www.reddit.com/r/SelfDrivingCars/comments/14b1beu/when_do_you_think_waymo_or_cruise_will_be/
 25. https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/
+26. https://en.wikipedia.org/wiki/History_of_self-driving_cars
+27. https://www.repairerdrivennews.com/2024/04/26/legislation-restricting-self-driving-vehicles-proposed-in-california/
+28. https://www.popsci.com/technology/self-driving-car-companies-status/
+29. https://www.linkedin.com/pulse/googles-waymo-vs-tesla-self-driving-car-race-dr-amr-elharony-srcef/
